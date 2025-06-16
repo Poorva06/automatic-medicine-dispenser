@@ -16,7 +16,7 @@ This project uses embedded systems and IoT to:
 - Automatic dispensing mechanism
 - Remote control and monitoring (optional upgrade via mobile or web interface)
 - Emergency alert or refill notification
-- Safety lock to prevent accidental double dispensing
+- SOS button in case of emergencies to alert close contacts and doctor
 
 ## Tech Stack
 
